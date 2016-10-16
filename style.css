@@ -1,5 +1,156 @@
+
+
+
+.redes-sociales{
+	text-align: right;
+}
+
+
+.logotipo{
+	margin-bottom: -80px: 
+}
+.menu{
+	list-style: none;
+	padding:  0;
+	margin: 0;
+	background: #E82C0C;
+	padding-bottom: 20px;
+	padding-left: 20px;
+
+}
+
+
+.menu  li{
+	display: inline-block;
+	font-size: 14px;
+	margin-right: 10px;
+}
+
+
+.menu li a{
+	color: #fff;
+	margin-right: 23px;
+
+}
+
+
+.img-centrado{
+	margin-right: 10px;
+}
+
+.banner {
+	background: url("img/fondo-portada.jpg") no-repeat center center;
+	background-size: cover;
+	padding-bottom: 50%
+}
+
+.banner h1{
+	margin: 0px;
+	padding-top: 200px;
+	padding-left: 50px;
+}
+
+
+h4{
+	padding-top: 0px;
+	padding-left: 100px;
+}
+
+
+
+
+
+	
+
+
 .seguridad{
 	/* la propiedad background permite colocar un color o imagen de fondo */
 	background: url("img/viaje-seguro.jpg") no-repeat center center;
 	height: 300px;
 }
+
+
+
+.fondo-footer{
+	background-image: url("img/bg_footer.png") no-repeat;
+	width: 100%;
+	padding-top: 150px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 30px;
+}
+
+
+.fondo-footer ul{
+	list-style: none;
+	padding: 0;
+	margin: 0; 
+}
+
+.img-centrado{
+	text-align: center;
+}
+
+
+
+.mapa{
+	color: #FFFFFF;
+	background-color: #0004FF;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	text-align: center;
+	font-weight: bold;
+	width: 280px;
+}
+
+
+
+.galeria{
+	color: #FFFFFF;
+	background-color: #FF540D;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	text-align: center;
+	font-weight: bold;
+	width: 280px;
+}
+
+
+.informacion{
+	color: #FFFFFF;
+	background-color: #18AD10;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	text-align: center;
+	font-weight: bold;
+	width: 280px;
+}
+
+
+.cuadro-imagen{
+	margin:20px auto 20px 10px ;
+	border:3px solid #0004FF;
+	padding: 10px;
+}
+
+
+h2{
+	text-align: center;
+	color: red;
+
+
+}
+
+p{
+	text-align: center;
+}
+
+
+.fondo-footer ul li a{
+	color: #000000;
+}
+
+
+
+
+
